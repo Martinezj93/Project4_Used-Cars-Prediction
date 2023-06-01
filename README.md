@@ -79,11 +79,13 @@ The objective of this project is to develop a deep learning model for predicting
 ![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/ec9d4592-fffd-47ae-a6c0-81d673758fe1)
 
 4. Linear Regression model results
+
 ![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/59a7d352-f24e-4f04-88d2-16d813538d17)
 ![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/65dddeea-c82a-4c4c-ab1e-5d82fe8d44fc)
 ![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/0a9b010a-e1be-4084-b1be-66ad7e5b7eec)
 
 5. Randome Forest model results
+
 ![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/ddc11c0b-3be0-4c15-b477-108313b3496c)
 ![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/40efdb3b-5272-47b4-9809-ffc15ba132b7)
 ![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/a087d905-43a6-484f-8e1a-5a0c1ddd6393)
