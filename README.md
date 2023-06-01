@@ -78,16 +78,16 @@ The objective of this project is to develop a deep learning model for predicting
 
 ![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/ec9d4592-fffd-47ae-a6c0-81d673758fe1)
 
-4. Linear Regression model results - Accuracy of: 80%
+4. Linear Regression model results
+![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/59a7d352-f24e-4f04-88d2-16d813538d17)
+![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/65dddeea-c82a-4c4c-ab1e-5d82fe8d44fc)
+![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/0a9b010a-e1be-4084-b1be-66ad7e5b7eec)
 
-![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/c634772f-8ddc-49aa-9a6a-e0fa81dcac8a)
-![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/25fa9ce2-879d-46f9-9633-9698e6fcf571)
-
-5. Randome Forest model results - Accuracy of: 90%
-
-![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/36bdf60c-8c58-4678-a942-728dc973ade0)
-![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/7424aced-6d5e-41cc-813e-12ba3ede843d)
-![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/87b0548a-5f94-4aef-8f8a-af034cc72880)
+5. Randome Forest model results
+![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/ddc11c0b-3be0-4c15-b477-108313b3496c)
+![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/40efdb3b-5272-47b4-9809-ffc15ba132b7)
+![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/a087d905-43a6-484f-8e1a-5a0c1ddd6393)
+![image](https://github.com/Martinezj93/Project4_Used-Cars-Prediction/assets/89439553/651f6f57-40ce-4972-9699-f3bb4f8acd09)
 
 # Tableau dashboard
 
@@ -97,9 +97,9 @@ The objective of this project is to develop a deep learning model for predicting
 
 In this project, we aimed to develop a model for predicting the prices of used cars using advanced machine learning techniques. Two models, namely Linear Regression and Random Forest Regressor, were employed to accomplish this objective.
 
-The Linear Regression model achieved a model score and R2 score of approximately 0.798, indicating that it can explain around 79.8% of the variance in used car prices. The mean squared error (MSE) was 104,440,963, suggesting an average squared difference between the predicted and actual prices. The root mean squared error (RMSE) was 10,219.64, indicating an average difference between the predicted and actual prices. Overall, the model demonstrated reasonable performance, but there is room for improvement.
+The Linear Regression model achieved a model score and R2 score of approximately 0.833, indicating that it can explain around 83.3% of the variance in used car prices. The mean squared error (MSE) was 90,012,996, suggesting an average squared difference between the predicted and actual prices. The root mean squared error (RMSE) was 9,587.57, indicating an average difference between the predicted and actual prices. Overall, the model demonstrated reasonable performance, but there is room for improvement.
 
-The Random Forest Regressor outperformed the Linear Regression model with a model score and R2 score of approximately 0.916, indicating that it can explain approximately 91.6% of the variance in used car prices. The mean squared error (MSE) was 44,666,239, significantly lower than the Linear Regression model. The root mean squared error (RMSE) was 6,683.28, indicating a smaller average difference between the predicted and actual prices. The Random Forest Regressor exhibited higher accuracy and performed better in capturing the complex relationships among the features.
+The Random Forest Regressor outperformed the Linear Regression model with a model score and R2 score of approximately 0.904, indicating that it can explain approximately 90.4% of the variance in used car prices. The mean squared error (MSE) was 50,134,431, significantly lower than the Linear Regression model. The root mean squared error (RMSE) was 7,061.05, indicating a smaller average difference between the predicted and actual prices. The Random Forest Regressor exhibited higher accuracy and performed better in capturing the complex relationships among the features.
 
 Moreover, the Random Forest Regressor provided insights into the importance of different features for predicting used car prices. The top five important features, in order of importance, were the number of cylinders, kilometers driven, year model, valve gear type, and drive type. These findings can guide potential buyers and sellers in considering the crucial factors that influence the prices of used cars.
 
